@@ -8,6 +8,8 @@ import matplotlib.pyplot as plt
 #data = pd.read_csv('file11.csv',sep='|',parse_dates=True,index_col=1)
 #tabdata = tabulate(data,['Date-Time','Field_userid','product_name','Platform','App_type','Search_term','Pageurl','Region','Additional_info'],tablefmt="grid")
 #print(tabdata)
+# print(table)
+# qa
 
 
 
