@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 # print(table)
 # qa
 # qa qa qa qa qa
-
+print("this is qa")
 
 
 
